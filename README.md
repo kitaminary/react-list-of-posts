@@ -1,5 +1,5 @@
 # React dynamic list of Posts
-  [DEMO LINK](https://kitaminary.github.io/react_dynamic-list-of-posts/)
+  [DEMO LINK](https://kitaminary.github.io/react-list-of-posts/)
 
 ## Start
 
